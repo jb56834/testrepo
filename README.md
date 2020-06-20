@@ -22,8 +22,13 @@ print("Hello World!")
 
 ### directory
 [code](code)
+
 [data](data)
+
 [references](references)
+
+![markdown-image](fruit.JPG)
+
 
 
 
